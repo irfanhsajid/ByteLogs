@@ -1,3 +1,0 @@
-# Ethical Hacking
-
-# CSRF
